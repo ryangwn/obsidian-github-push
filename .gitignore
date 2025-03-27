@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Build files
+main.js
+*.js.map
+
+# Exclude dist directory from gitignore
+!dist/
+!dist/**/*
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

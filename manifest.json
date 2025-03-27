@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-github-push",
+  "name": "GitHub Push",
+  "version": "0.0.1",
+  "minAppVersion": "0.0.1",
+  "description": "Push Obsidian notes to a GitHub repository with a single click.",
+  "author": "ryan",
+  "authorUrl": "https://github.com/ryangwn",
+  "isDesktopOnly": false
+}
